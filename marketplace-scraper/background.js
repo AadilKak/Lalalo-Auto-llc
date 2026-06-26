@@ -1,7 +1,7 @@
 const DEFAULT_API_BASE = "https://marketplace-system-lf78.onrender.com";
-const DEFAULT_DEALER_SLUG = "lalalo-auto-llc";
-const DEFAULT_DEALER_KEY = "lalalo-auto-llc-bC1lRvNRgwrQxTD4Eemhioqk";
-const DEFAULT_FACEBOOK_PROFILE_URL = "https://www.facebook.com/marketplace/profile/1177957558/";
+const DEFAULT_DEALER_SLUG = "3k-auto-import-llc";
+const DEFAULT_DEALER_KEY = "3k-auto-import-llc-Gv0r3lDdMamPcC12PDYN2M07";
+const DEFAULT_FACEBOOK_PROFILE_URL = "https://www.facebook.com/marketplace/profile/100066815940077/";
 const AUTO_ALARM = "nuc-auto-enrich";
 const AUTO_INTERVAL_MINUTES = 30;
 

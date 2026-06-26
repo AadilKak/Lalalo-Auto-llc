@@ -1,6 +1,6 @@
 const DEFAULT_API_BASE = "https://marketplace-system-lf78.onrender.com";
-const DEFAULT_DEALER_SLUG = "lalalo-auto-llc";
-const DEFAULT_DEALER_KEY = "lalalo-auto-llc-bC1lRvNRgwrQxTD4Eemhioqk";
+const DEFAULT_DEALER_SLUG = "3k-auto-import-llc";
+const DEFAULT_DEALER_KEY = "3k-auto-import-llc-Gv0r3lDdMamPcC12PDYN2M07";
 
 let autoEnabled = true;
 
